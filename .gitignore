@@ -4,7 +4,10 @@
 *.dll
 *.so
 *.dylib
-
+*.Dockerfile*
+Dockerfile~
+.gitignore~
+..gitignore.*
 # Test binary, built with `go test -c`
 *.test
 
